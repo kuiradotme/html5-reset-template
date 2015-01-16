@@ -1,0 +1,41 @@
+@import url("css/normalize.css");
+@import url("css/owl.carousel.css");
+@import url("css/owl.theme.css");
+@import url("css/owl.transitions.css");
+@import url("fonts/fonts.css");
+
+
+/* ==========================================================================
+Browse Happy prompt
+========================================================================== */
+
+
+body {
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 18px;
+	font-weight: 300;
+	color: #000;
+	background-color: #ffffff;
+}
+a {
+	color: #00bfaf;
+}
+a, a:hover, a:visited, a:focus, a:active {
+	text-decoration: none;
+	outline: none;
+}
+*:focus  
+{  
+	outline: none;  
+}
+img {
+	border: none;
+	max-width: 100%;
+}
+
+
+
+
+
+
+
